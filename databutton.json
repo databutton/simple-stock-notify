@@ -1,0 +1,11 @@
+{
+  "uid": "6af9f3fe-a74e-4d5b-8b70-c61eb545eb0a",
+  "name": "stock-trading",
+  "exclude": [
+    "venv",
+    ".venv",
+    "__pycache__",
+    ".databutton",
+    ".git"
+  ]
+}
